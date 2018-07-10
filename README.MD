@@ -1,5 +1,5 @@
 ## Description 
-Ordering Products proREST API using node.js (express), JWT auth , multer for images and mongoose Atlas as online DB
+Ordering Products REST API using node.js (express), JWT auth , multer for images and mongoose Atlas as online DB
 Thanks alot for Acamind Guys tutorials
 ## Usage
 ```git clone``` it and thereafter run ```npm install```.
